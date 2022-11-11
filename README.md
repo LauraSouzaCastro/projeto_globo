@@ -1,6 +1,8 @@
 # projeto_globo
 
-Seu primeiro projeto será aplicar o layout de uma versão simplificada da home da [Globo.com](http://globo.com), utilizando HTML e CSS. Tente deixar sua página ao máximo parecida com o **layout fornecido**!
+[Acesse o site clicando aqui!](https://laurasouzacastro.github.io/projeto_globo/)
+
+Seu primeiro projeto será aplicar o layout de uma versão simplificada da home da Globo.com, utilizando HTML e CSS. Tente deixar sua página ao máximo parecida com o **layout fornecido**!
 # Requisitos
 
 - [X]  Aplicar o layout seguindo o figma fornecido;
